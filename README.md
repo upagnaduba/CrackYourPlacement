@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
