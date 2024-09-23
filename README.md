@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -77,4 +78,8 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
