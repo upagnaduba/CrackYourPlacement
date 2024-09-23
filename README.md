@@ -21,6 +21,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
