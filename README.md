@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
