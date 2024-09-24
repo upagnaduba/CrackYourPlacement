@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
