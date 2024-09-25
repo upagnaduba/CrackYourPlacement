@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
