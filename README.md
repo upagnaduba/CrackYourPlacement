@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -50,6 +51,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
