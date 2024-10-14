@@ -66,6 +66,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 ## Binary Indexed Tree
 |  |
 | ------- |
