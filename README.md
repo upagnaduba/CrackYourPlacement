@@ -66,6 +66,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
@@ -142,6 +143,7 @@
 | [0009-palindrome-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
