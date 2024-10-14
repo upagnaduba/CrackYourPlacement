@@ -32,6 +32,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
@@ -69,6 +70,7 @@
 | [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,11 +97,13 @@
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -135,6 +139,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Math
