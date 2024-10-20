@@ -151,6 +151,7 @@
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
