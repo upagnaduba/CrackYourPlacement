@@ -23,6 +23,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
@@ -98,6 +99,7 @@
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
