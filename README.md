@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -98,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,4 +216,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
