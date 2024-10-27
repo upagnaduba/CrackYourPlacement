@@ -120,6 +120,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +162,7 @@
 | [0007-reverse-integer](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
