@@ -32,6 +32,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -131,6 +132,7 @@
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
