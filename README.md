@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0344-reverse-string) |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
