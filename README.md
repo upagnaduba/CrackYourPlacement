@@ -57,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0344-reverse-string) |
@@ -130,6 +131,7 @@
 | [0001-two-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -255,4 +257,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
