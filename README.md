@@ -65,6 +65,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -207,6 +208,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
