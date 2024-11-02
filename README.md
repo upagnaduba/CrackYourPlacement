@@ -212,6 +212,7 @@
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2580-circular-sentence](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2580-circular-sentence) |
 ## Quickselect
 |  |
 | ------- |
