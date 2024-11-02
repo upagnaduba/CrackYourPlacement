@@ -210,6 +210,7 @@
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2580-circular-sentence) |
