@@ -49,6 +49,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
