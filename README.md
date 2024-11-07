@@ -28,6 +28,7 @@
 | [0152-maximum-product-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Divide and Conquer
@@ -290,6 +292,7 @@
 | [0100-same-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -297,6 +300,7 @@
 | [0100-same-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -305,4 +309,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
