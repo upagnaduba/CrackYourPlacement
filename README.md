@@ -144,6 +144,7 @@
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Hash Table
 |  |
@@ -204,6 +205,7 @@
 | [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
+| [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Heap (Priority Queue)
 |  |
