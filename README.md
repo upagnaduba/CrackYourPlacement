@@ -45,6 +45,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -118,6 +119,7 @@
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -131,6 +133,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Hash Table
 |  |
