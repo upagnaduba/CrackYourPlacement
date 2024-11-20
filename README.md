@@ -129,6 +129,7 @@
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -202,6 +203,7 @@
 | [0007-reverse-integer](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
