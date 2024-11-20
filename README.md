@@ -134,6 +134,7 @@
 | [0152-maximum-product-subarray](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Hash Table
 |  |
@@ -232,6 +234,7 @@
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -277,6 +280,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
