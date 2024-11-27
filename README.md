@@ -157,6 +157,7 @@
 | [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0738-monotone-increasing-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0738-monotone-increasing-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Heap (Priority Queue)
 |  |
