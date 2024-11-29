@@ -51,6 +51,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
+| [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -158,6 +159,7 @@
 | [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0738-monotone-increasing-digits) |
+| [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -221,6 +224,7 @@
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0738-monotone-increasing-digits) |
+| [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Heap (Priority Queue)
 |  |
