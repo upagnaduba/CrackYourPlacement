@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
@@ -305,6 +306,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
