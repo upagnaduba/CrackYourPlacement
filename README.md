@@ -55,6 +55,7 @@
 | [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
