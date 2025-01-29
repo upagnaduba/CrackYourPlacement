@@ -46,6 +46,7 @@
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
@@ -154,6 +155,7 @@
 | [0409-longest-palindrome](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0670-maximum-swap) |
