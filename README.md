@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@
 | [0075-sort-colors](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
@@ -176,6 +178,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
