@@ -46,6 +46,7 @@
 | [0410-split-array-largest-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0561-array-partition) |
@@ -186,6 +187,7 @@
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
@@ -316,11 +318,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
