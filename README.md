@@ -37,6 +37,7 @@
 | [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -102,6 +103,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -119,6 +121,7 @@
 | [0136-single-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -130,6 +133,7 @@
 | [0088-merge-sorted-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
@@ -186,6 +190,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0389-find-the-difference) |
@@ -238,6 +243,7 @@
 | [0070-climbing-stairs](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
