@@ -63,6 +63,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2107-find-unique-binary-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -201,6 +202,7 @@
 | [0621-task-scheduler](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2107-find-unique-binary-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0812-rotate-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2107-find-unique-binary-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2580-circular-sentence) |
@@ -407,4 +410,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2087-confirmation-rate) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
