@@ -405,6 +405,7 @@
 | [0595-big-countries](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1153-product-sales-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1182-game-play-analysis-iv) |
 | [1415-students-and-examinations](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/upagnaduba/CrackYourPlacement/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
