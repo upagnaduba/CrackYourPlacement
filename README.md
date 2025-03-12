@@ -89,6 +89,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0556-next-greater-element-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/upagnaduba/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -283,6 +284,7 @@
 | [0409-longest-palindrome](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0722-remove-comments](https://github.com/upagnaduba/CrackYourPlacement/tree/master/0722-remove-comments) |
